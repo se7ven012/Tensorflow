@@ -8,4 +8,5 @@
 * A simple RNN
 * Tensorflow Saver and Restore, Inception-v3 demo
 * Tensorflow Multiple GPU demo
-* Reinforcement learning demo
+* Reinforcement learning Policy based
+* Reinforcement learning Value based
