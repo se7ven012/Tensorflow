@@ -6,6 +6,7 @@
 * Using Tensorboard
 * A simple CNN
 * A simple RNN
+* LSTM language model
 * Tensorflow Saver and Restore, Inception-v3
 * Tensorflow Multiple GPU demo
 * Reinforcement learning Policy based
