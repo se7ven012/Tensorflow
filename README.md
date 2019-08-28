@@ -7,7 +7,9 @@
 * A simple CNN
 * A simple RNN
 * LSTM language model
-* Tensorflow Saver and Restore, Inception-v3
+* Tensorflow Saver and Restore
+* Inception-v3
+* ResNet
 * Tensorflow Multiple GPU demo
 * Reinforcement learning Policy based
 * Reinforcement learning Value based
